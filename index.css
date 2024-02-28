@@ -1,0 +1,44 @@
+body {
+    background-color: #212529;
+}
+
+.parentDiv {
+    display: flex;
+
+
+    /* background-color: rgb(57, 57, 58); */
+    /* border: 10px solid red; */
+    justify-content: space-around;
+
+}
+
+.startbtnc {
+    display: flex;
+    border: 2px solid;
+
+    /* background-color: rgb(107, 11, 196); */
+    background-color: #240046;
+    margin: 12px;
+    position: relative;
+    left: 40%;
+    color: #eff7f6;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 8px;
+
+}
+
+.btn {
+    display: flex;
+
+}
+
+.startbtnc:hover {
+    border-color: rgb(84, 180, 193);
+    box-shadow: 2px 4px lightblue;
+}
+
+a {
+    text-decoration: none;
+    color: #eff7f6;
+}
