@@ -1,4 +1,1 @@
-# abc
-# AlgoViz
-# AlgoViz
-# AlgoViz
+Algorithm Visualizer
